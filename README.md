@@ -76,4 +76,6 @@ Este proyecto es solo para fines educativos y pruebas controladas.
 **No lo uses en infraestructuras sin autorización.**  
 Haak Consulting no se responsabiliza por usos indebidos.
 
-by Alan Contreras - Haak Cybersecurity Consulting
+---
+
+Made with 💻 by Alan Contreras - Haak Cybersecurity Consulting
